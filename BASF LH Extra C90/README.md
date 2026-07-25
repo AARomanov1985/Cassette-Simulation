@@ -1,4 +1,5 @@
 # BASF LH Extra C90
+![Cassette Tapes Collection](cover.jpg)
 
 BASF LH (Low Noise High Output) Extra C90 is a classic German Type I ferric cassette tape from the late 1970s and 1980s.
 

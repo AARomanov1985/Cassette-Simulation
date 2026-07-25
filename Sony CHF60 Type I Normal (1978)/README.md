@@ -1,5 +1,5 @@
 # Sony CHF60 Type I Normal (1978)
-
+![Cassette Tapes Collection](cover.jpg)
 Sony CHF60 was Sony's mainstream Type I normal bias cassette line in the late 1970s. The 60-minute version uses a thicker tape substrate than 90-minute tapes.
 
 ## Sound Character

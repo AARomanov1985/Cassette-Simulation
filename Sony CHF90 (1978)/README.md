@@ -1,5 +1,5 @@
 # Sony CHF90 (1978)
-
+![Cassette Tapes Collection](cover.jpg)
 Sony CHF90 was the 90-minute variant of Sony's popular 1978 CHF normal bias cassette line.
 
 ## Sound Character

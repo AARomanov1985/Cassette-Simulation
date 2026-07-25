@@ -1,5 +1,5 @@
 # TDK D90 (1995-1997)
-
+![Cassette Tapes Collection](cover.jpg)
 TDK D90 was the most widely used Type I cassette tape in the world during the late 1990s.
 
 ## Sound Character

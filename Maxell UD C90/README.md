@@ -1,5 +1,5 @@
 # Maxell UD C90
-
+![Cassette Tapes Collection](cover.jpg)
 Maxell UD (Ultra Dynamic) C90 is a premium Type I normal bias cassette introduced in the 1970s.
 
 ## Sound Character
