@@ -1,7 +1,11 @@
 #!/bin/bash
 set -e
 shopt -s nullglob nocaseglob
+aac)
+./convert_cassette_*.sh
 
+# Record a live web stream into segment files
+./record_stream_cassette_*.sh [STREAM_URL]
 TARGET_DIR="./out"
 mkdir -p "$TARGET_DIR"
 
